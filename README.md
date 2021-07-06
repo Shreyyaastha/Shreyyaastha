@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyyaastha
-- 👀 I’m interested in quality analysis and cyber security
+- 👀 I’m interested in business analysis, project management and quality analysis
 - 🌱 I’m currently learning software testing 
 - 📫 How to reach me : email shreyyaastha@gmail.com
 
