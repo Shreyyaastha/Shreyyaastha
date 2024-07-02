@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shreyyaastha
-- 👀 I’m interested in business analysis, project management and quality analysis
-- 🌱 I’m currently learning software testing 
+- 👀 I’m interested in business analysis and project management
 - 📫 How to reach me : email shreyyaastha@gmail.com
 
 <!---
